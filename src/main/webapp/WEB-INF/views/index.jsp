@@ -2,12 +2,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>안녕 안녕</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+<h1>안녕 안녕</h1>
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a href="join">가입</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
 </body>
 </html>
